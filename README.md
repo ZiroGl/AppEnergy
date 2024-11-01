@@ -74,6 +74,9 @@ Na tela principal, o usuário ira encontrar os campos para por os dados para o c
 
 <img src="https://github.com/user-attachments/assets/93daee9d-548a-4574-9d26-7d7cdbbc8f35" width="260" height="500"/>
 
+# 📲 APK do APP 
+
+<a href="https://github.com/ZiroGl/AppEnergy/blob/main/AppEnergy.apk"> Download APK </a>
 
 # 📄 Licença
 
